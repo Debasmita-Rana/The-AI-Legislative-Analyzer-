@@ -57,6 +57,7 @@ requests – for API communication
 os and sys – for file and path handling
 
 AI Tools
+
 Scaledown API (for AI-based compression)
 
 Gemini API (for AI-based summarization)
