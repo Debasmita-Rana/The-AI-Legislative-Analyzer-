@@ -73,12 +73,15 @@ Text-based input system (policy.txt)
 Project Architecture
 
 Policy Text
+     
      ↓
      
 Token Compression Layer
+    
      ↓
      
 AI Summarization (Gemini API)
+     
      ↓
      
 Citizen-Friendly Output
