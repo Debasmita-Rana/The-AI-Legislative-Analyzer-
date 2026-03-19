@@ -1,0 +1,51 @@
+DIGITAL PERSONAL DATA PROTECTION POLICY (SIMPLIFIED SAMPLE)
+
+1. Introduction
+This policy aims to establish a comprehensive framework for the protection of personal data of citizens. It seeks to ensure that individuals' data is processed in a lawful, fair, and transparent manner, while enabling the government and private entities to carry out necessary functions for public welfare.
+
+2. Definitions
+Personal data refers to any information relating to an identified or identifiable individual. This includes names, identification numbers, location data, online identifiers, and other factors specific to the physical, economic, cultural, or social identity of a person.
+
+3. Consent
+Data shall be collected only with the explicit and informed consent of the individual. Consent must be freely given, specific, informed, and unambiguous. Individuals have the right to withdraw consent at any time.
+
+4. Purpose Limitation
+Data collected must be used only for the purpose for which it was collected. Any further processing must be compatible with the original purpose or require fresh consent.
+
+5. Data Minimization
+Organizations must collect only the minimum amount of data necessary to achieve the intended purpose. Excessive data collection is strictly prohibited.
+
+6. Data Storage and Retention
+Personal data must not be retained for longer than necessary. Organizations must implement clear data retention policies and securely delete data once it is no longer required.
+
+7. Rights of Individuals
+Citizens have the following rights:
+- Right to access their personal data
+- Right to correct inaccurate data
+- Right to request deletion of data
+- Right to restrict processing
+- Right to data portability
+
+8. Data Security
+Entities must implement appropriate technical and organizational measures to ensure data security. This includes encryption, access control, and regular security audits.
+
+9. Data Breach Notification
+In case of a data breach, the responsible entity must notify the relevant authority within 72 hours and inform affected individuals without undue delay.
+
+10. Cross-Border Data Transfer
+Transfer of personal data outside the country is allowed only to jurisdictions that ensure an adequate level of data protection, as determined by the government.
+
+11. Accountability
+Organizations processing personal data are accountable for compliance with this policy. They must maintain records of processing activities and conduct periodic audits.
+
+12. Penalties
+Failure to comply with this policy may result in significant penalties, including fines and restrictions on data processing activities.
+
+13. Exemptions
+Certain exemptions may apply for national security, public interest, and legal enforcement purposes.
+
+14. Grievance Redressal
+Citizens may file complaints with a designated authority in case of violations of their data rights. The authority shall resolve complaints within a specified timeframe.
+
+15. Conclusion
+This policy aims to balance individual privacy rights with the need for data-driven innovation and governance. It establishes a citizen-centric approach to data protection and promotes responsible data usage.
