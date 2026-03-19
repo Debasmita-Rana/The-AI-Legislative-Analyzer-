@@ -81,5 +81,7 @@ Citizen-Friendly Output
 How to Run the Project
 
 1.Install Python 3
+
 2.Install the requirements 
+
 pip install requirements.txt
